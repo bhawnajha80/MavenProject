@@ -1,0 +1,11 @@
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd" >
+  
+<suite name="8PMSeleniumTraining" verbose="1" >
+  <test name="GitDemoTesting" >
+    <classes>
+      <class name="GithubDemo.Demoopenpage"/>
+      <class name="GithubDemo.DemoSignIn"/>
+    </classes>
+  </test>
+ 
+</suite>

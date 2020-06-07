@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="4" passed="4">
+  <reporter-output>
+  </reporter-output>
+  <suite name="8PMSeleniumTraining" duration-ms="42642" started-at="2020-06-05T23:49:13Z" finished-at="2020-06-05T23:49:55Z">
+    <groups>
+    </groups>
+    <test name="TestNGScripts" duration-ms="42642" started-at="2020-06-05T23:49:13Z" finished-at="2020-06-05T23:49:55Z">
+      <class name="com.qa.testNGScript.AnnotationTestNG">
+        <test-method status="PASS" signature="configuration()[pri:0, instance:com.qa.testNGScript.AnnotationTestNG@79b4d0f]" name="configuration" is-config="true" duration-ms="7275" started-at="2020-06-05T23:49:36Z" finished-at="2020-06-05T23:49:43Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- configuration -->
+        <test-method status="PASS" signature="signin()[pri:49, instance:com.qa.testNGScript.AnnotationTestNG@79b4d0f]" name="signin" duration-ms="2230" started-at="2020-06-05T23:49:43Z" finished-at="2020-06-05T23:49:45Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- signin -->
+        <test-method status="PASS" signature="Resgister()[pri:50, instance:com.qa.testNGScript.AnnotationTestNG@79b4d0f]" name="Resgister" duration-ms="7201" started-at="2020-06-05T23:49:45Z" finished-at="2020-06-05T23:49:52Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Resgister -->
+        <test-method status="PASS" signature="signoff()[pri:0, instance:com.qa.testNGScript.AnnotationTestNG@79b4d0f]" name="signoff" is-config="true" duration-ms="2940" started-at="2020-06-05T23:49:52Z" finished-at="2020-06-05T23:49:55Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- signoff -->
+      </class> <!-- com.qa.testNGScript.AnnotationTestNG -->
+      <class name="com.qa.testNGScript.TestNGScriptDemo">
+        <test-method status="PASS" signature="Login()[pri:0, instance:com.qa.testNGScript.TestNGScriptDemo@3fb6a447]" name="Login" duration-ms="10905" started-at="2020-06-05T23:49:13Z" finished-at="2020-06-05T23:49:24Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Login -->
+        <test-method status="PASS" signature="Registration()[pri:0, instance:com.qa.testNGScript.TestNGScriptDemo@3fb6a447]" name="Registration" duration-ms="12033" started-at="2020-06-05T23:49:24Z" finished-at="2020-06-05T23:49:36Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Registration -->
+      </class> <!-- com.qa.testNGScript.TestNGScriptDemo -->
+    </test> <!-- TestNGScripts -->
+  </suite> <!-- 8PMSeleniumTraining -->
+</testng-results>

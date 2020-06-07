@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite guice-stage="DEVELOPMENT" verbose="0" name="Failed suite [8PMSeleniumTraining]">
+  <test thread-count="5" verbose="0" name="GitDemoTesting(failed)">
+    <classes>
+      <class name="GithubDemo.DemoSignIn">
+        <methods>
+          <include name="signIn"/>
+        </methods>
+      </class> <!-- GithubDemo.DemoSignIn -->
+    </classes>
+  </test> <!-- GitDemoTesting(failed) -->
+</suite> <!-- Failed suite [8PMSeleniumTraining] -->

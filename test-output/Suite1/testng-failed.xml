@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite thread-count="2" guice-stage="DEVELOPMENT" name="Failed suite [Suite1]" parallel="tests">
+  <test thread-count="2" name="Tourlogin2(failed)" parallel="tests">
+    <parameter name="Username" value="Username2"/>
+    <parameter name="Password" value="Password2"/>
+    <classes>
+      <class name="com.qa.testNGScript.TourLogin2">
+        <methods>
+          <include name="config2"/>
+          <include name="signin"/>
+        </methods>
+      </class> <!-- com.qa.testNGScript.TourLogin2 -->
+    </classes>
+  </test> <!-- Tourlogin2(failed) -->
+</suite> <!-- Failed suite [Suite1] -->

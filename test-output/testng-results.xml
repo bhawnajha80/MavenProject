@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="8266" started-at="2020-06-05T23:25:33Z" finished-at="2020-06-05T23:25:41Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="8266" started-at="2020-06-05T23:25:33Z" finished-at="2020-06-05T23:25:41Z">
+      <class name="GithubDemo.Demoopenpage">
+        <test-method status="PASS" signature="Pageopen()[pri:0, instance:GithubDemo.Demoopenpage@6767c1fc]" name="Pageopen" duration-ms="8210" started-at="2020-06-05T23:25:33Z" finished-at="2020-06-05T23:25:41Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Pageopen -->
+      </class> <!-- GithubDemo.Demoopenpage -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
